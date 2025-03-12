@@ -1,6 +1,7 @@
 import torch
 from diffusers import CogView4Pipeline
 import argparse
+import boto3
 
 arg_parser = argparse.ArgumentParser()
 
