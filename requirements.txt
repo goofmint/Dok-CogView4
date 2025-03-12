@@ -1,0 +1,3 @@
+argparse
+git+https://github.com/huggingface/diffusers.git
+boto3
